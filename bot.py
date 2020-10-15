@@ -27,7 +27,7 @@ _^^...Scalawag^^_
 
 ---
 
-^^I'm ^^a ^^bot by ^^Michael ^^Gundlach.  ^^Please ^^don't ^^hurt ^^me, ^^beep ^^boop!
+^^I'm ^^a ^^bot ^^by ^^Michael ^^Gundlach.  ^^Please ^^don't ^^hurt ^^me, ^^beep ^^boop!
 ^^[[about](https://github.com/michaelgundlach/reddit_scalawag_bot)]
 ^^[[code](https://github.com/michaelgundlach/reddit_scalawag_bot)]
 """
