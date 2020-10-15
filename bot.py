@@ -21,15 +21,15 @@ REPLY_TEMPLATE = """> {snippet}
 
 I think you want "{fixed_error}", not "{error}".  As [Strongbad's song](https://www.youtube.com/watch?v=yc2udEpyPpU) says,
 
-_If you want it to be possessive, it's just "I-T-S"_\\
-_But if it's supposed to be a contraction then it's "I-T-apostrophe-S"_\\
-_^^...Scalawag^^_
+_If you want it to be possessive, it's just "I-T-S"\
+but if it's supposed to be a contraction then it's "I-T-apostrophe-S"\
+...scalawag_
 
 ---
 
-^^I'm ^^a ^^bot ^^by ^^Michael ^^Gundlach.  ^^Please ^^don't ^^hurt ^^me, ^^beep ^^boop!
+^^I'm ^^a ^^friendly ^^bot ^^by ^^[michaelgundlach](https://github.com/michaelgundlach).  ^^Please ^^don't ^^hurt ^^me, ^^beep ^^boop!
 ^^[[about](https://github.com/michaelgundlach/reddit_scalawag_bot)]
-^^[[code](https://github.com/michaelgundlach/reddit_scalawag_bot)]
+^^[[code](https://github.com/michaelgundlach/reddit_scalawag_bot/blob/main/bot.py)]
 """
 
 def phrases_with_forgotten_apostrophe():
