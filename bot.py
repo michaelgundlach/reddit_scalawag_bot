@@ -17,13 +17,13 @@ logger.addHandler(logging.StreamHandler(sys.stderr))
 
 DELAY_SECONDS = 360  # Minimum age of comments we reply to
 
-REPLY_TEMPLATE = """> {snippet}
+REPLY_TEMPLATE = r"""> {snippet}
 
 I think you want "{fixed_error}", not "{error}".  As [Strongbad's song](https://www.youtube.com/watch?v=yc2udEpyPpU) says,
 
 _If you want it to be possessive, it's just "I-T-S"\
 but if it's supposed to be a contraction then it's "I-T-apostrophe-S"\
-...scalawag_
+...scalawag \U0001F3B6_
 
 ---
 
