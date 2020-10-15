@@ -8,4 +8,4 @@ python3 bot.py
 
 The praw package
 
-A praw.ini user/pw/etc file for praw
+A praw.ini file (see praw.ini.template to make one)

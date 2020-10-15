@@ -1,0 +1,9 @@
+# Rename this file to praw.ini and fill it in to make this bot work.
+
+[scalawag_bot]
+
+client_id= # from reddit.com/prefs/apps when logged in as the bot
+client_secret= # same
+username=scalawag_bot
+password= # bot's reddit password
+user_agent=Scalawag Bot v0.0.2 (by Michael Gundlach)
